@@ -1,0 +1,42 @@
+# Lost and Found
+
+One Paragraph of project description goes here
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your android device or an emulator for development and testing purposes.
+
+### Prerequisites
+
+```
+Android Device
+```
+
+```
+Android Emulator
+Android Studio
+```
+
+
+### Installing
+
+A step by step series of examples that tell you how to get a development env running
+
+
+```
+Download APK file (lostandfound/app/relase/app-relase.apk)
+Install on smartphone running android
+```
+
+```
+Download zip file
+Download android studio
+Run unzipped folder on android studio
+Cold boot AVD
+Go to preference and uncheck instant run
+Run project on AMD emulator
+```
+
+## Authors
+
+Abdugani Osman
